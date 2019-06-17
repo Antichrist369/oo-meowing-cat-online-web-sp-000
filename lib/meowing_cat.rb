@@ -4,5 +4,5 @@ class Cat
 end
 
 def cat(meow)
-  puts "meow!"
+  maru="meow!"
 end 
